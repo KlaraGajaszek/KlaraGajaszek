@@ -12,6 +12,7 @@
   </div>  
  <br/>
 <div>
+  <br/>
 <h2>Get in touch </h2>
 <a href="mailto:klaragajaszek21@wp.pl?subject=[GitHub]%20🚀"><img align="left" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/klara-gajaszek-7aa043189/"><img align="left" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

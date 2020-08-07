@@ -3,6 +3,7 @@
  <p>
   <a href="mailto:klaragajaszek21@wp.pl?subject=[GitHub]%20🚀"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/klara-gajaszek-7aa043189/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/github.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
  <br/>
   I'm Klara

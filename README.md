@@ -1,7 +1,7 @@
 
 <div>
   <div>
-    <h1>Buenos días </h1>
+    <h1>Buenos días, I'm Klara </h1>
     <p> 💻 I’m student, Big Data Developer and Mentor in WIT Bootcamp project</p>
     <p> 🚀  I’m currently learning everything </p>
   </div>

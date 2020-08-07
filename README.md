@@ -2,7 +2,10 @@
 
 - 💻 I’m student, Big Data Developer and Mentor in WIT Bootcamp project
 - 🚀🌱 I’m currently learning everything 🤣
-🌍 ### Get in touch !
+  <br/>
+
+### Get in touch
+
 <br/>
  <p>
   <a href="mailto:klaragajaszek21@wp.pl?subject=[GitHub]%20🚀"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>

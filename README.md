@@ -1,6 +1,4 @@
 
- <img align="center" alt="Girls in tech" width=100% height="300px" src="https://user-images.githubusercontent.com/59035908/89711553-31f45880-d98b-11ea-8cca-014a86964257.jpg" />
- <br/>
 <div>
   <div>
     <span><h1>Buenos días </h1>

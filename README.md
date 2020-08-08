@@ -1,10 +1,15 @@
+<h2>Main informations about me... </h2>
 
+
+```javascript
+  const klara = {
+  experience: "Software Developer in CommerzBank",
+  code: [SQL, HSQL, Bash, Javascript, HTML, CSS, React, Node, Styled-Components],
+  tools: [Docker, Linux, Apache NiFi, OracleDB, Data Lake],
+  education : "Wroclaw University of Technology ".
+}
+```
 <div>
-  <div>
-    <span><h1>Buenos días </h1>
-    <p> 💻 I’m student, Big Data Developer and Mentor in WIT Bootcamp project</p>
-    <p> 🚀  I’m currently learning everything </p>
-  </div>
 <div>
   <h2>Organizations</h2>
   <img align="left" alt="Girls in tech" width="60px" height="60px" src="https://user-images.githubusercontent.com/59035908/89677651-1f781180-d8ee-11ea-8bb0-e7c20ac26311.jpg" />

@@ -1,14 +1,16 @@
-<h2>Main informations about me... </h2>
 
+
+<h2>Main informations about me... </h2>
 
 ```javascript
   const klara = {
   experience: "Software Developer in CommerzBank",
   code: [SQL, HSQL, Bash, Javascript, HTML, CSS, React, Node, Styled-Components],
-  tools: [Docker, Linux, Apache NiFi, OracleDB, Data Lake],
+  tools: [Hadoop, Spark, Docker, Linux, Apache NiFi, OracleDB],
   education : "Wroclaw University of Technology ".
 }
 ```
+
 <div>
 <div>
   <h2>Organizations</h2>

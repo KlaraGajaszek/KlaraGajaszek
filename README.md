@@ -20,6 +20,8 @@
  <br/>
  <br/>
   <h2 >Publications</h2>
+   <h2 >Activities</h2>
+  Mentor in WIT bootcamp 
   <h2>Dream</h2>
   Open kindergarten in which children can develop and learn coding  
   </div>  

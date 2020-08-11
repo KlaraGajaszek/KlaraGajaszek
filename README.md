@@ -1,7 +1,6 @@
-
-
-👋 <h1>Bonjour  <h2>
-<h2>Main information about me </h2>
+## I'm Klara! :wave:
+  
+<h2>Main information about me... </h2>
 
 ```javascript
   const klara = {

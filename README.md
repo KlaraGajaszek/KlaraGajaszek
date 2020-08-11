@@ -1,6 +1,6 @@
 
 
-<h2>Main informations about me... </h2>
+<h2>Never give up... </h2>
 
 ```javascript
   const klara = {
@@ -20,13 +20,14 @@
  <br/>
  <br/>
   <h2 >Publications</h2>
-
+  <h2>Dream</h2>
+  Open kindergarten in which children can develop and learn coding  
   </div>  
 
 <h2>Get in touch </h2>
 <a href="mailto:klaragajaszek21@wp.pl?subject=[GitHub]%20🚀"><img align="left" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/klara-gajaszek-7aa043189/"><img align="left" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    </div>
+    </s>
 </div>
 
 

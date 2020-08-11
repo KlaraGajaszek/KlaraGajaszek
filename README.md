@@ -10,7 +10,8 @@
   education : "Wroclaw University of Technology ".
 }
 ```
-
+## I am developer because...
+I would like to create products which other people use every day and thanks for it their life will me easier...
 <div>
 <div>
   <h2> In Progress...</h2>

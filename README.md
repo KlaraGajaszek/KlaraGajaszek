@@ -13,8 +13,6 @@
 
 <div>
 <div>
-  <h2> Projects<h2/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KlaraGajaszek&repo=chessGame"/>
   <h2> In Progress...</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=KlaraGajaszek&show_icons=true&theme=dark"/>
        <h2 >Activities</h2>

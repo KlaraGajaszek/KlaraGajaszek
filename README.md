@@ -30,8 +30,8 @@
   </div>  
  <br/>
  <br/>
-
-  </div>  
+  </div> 
+   <br/>
 
 <h2>Get in touch </h2>
 <a href="mailto:klaragajaszek21@wp.pl?subject=[GitHub]%20🚀"><img align="left" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>

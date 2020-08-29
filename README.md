@@ -4,10 +4,11 @@
 
 ```javascript
   const klara = {
+  education : "Wroclaw University of Technology "
   experience: "Software Developer in CommerzBank",
-  code: [SQL, HSQL, Bash, Javascript, HTML, CSS, React, Node, Styled-Components],
-  tools: [Hadoop, Spark, Docker, Linux, Apache NiFi, OracleDB],
-  education : "Wroclaw University of Technology ".
+  Frontend: [Java Script, CSS, HTML5, React.js, React Hook, Styled Components, Story Book, Gatsby ],
+  Library: [Material UI, React Bootstrap, React Hook Form],
+  BackendAndDataBase: [Node.js, Express, SQL, Oracle DB]
 }
 ```
 ## I am developer because...

@@ -6,7 +6,7 @@
   const klara = {
   education : "Wroclaw University of Technology "
   experience: "Software Developer in CommerzBank",
-  Frontend: [Java Script, CSS, HTML5, React.js, React Hook, Styled Components, Story Book, Gatsby ],
+  Frontend: [Java Script, CSS, HTML5, React.js, React Hook, Styled Components, Story Book, Gatsby],
   Library: [Material UI, React Bootstrap, React Hook Form],
   BackendAndDataBase: [Node.js, Express, SQL, Oracle DB]
 }
